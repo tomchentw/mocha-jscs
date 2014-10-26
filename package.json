@@ -1,0 +1,32 @@
+{
+  "name": "mocha-jscs",
+  "version": "1.0.0",
+  "description": "Add jscs as mocha test in your test suite.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomchentw/mocha-jscs.git"
+  },
+  "keywords": [
+    "mocha",
+    "jscs",
+    "test",
+    "suite"
+  ],
+  "author": {
+    "name": "tomchentw",
+    "email": "developer@tomchentw.com",
+    "url": "https://github.com/tomchentw"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://tomchentw.mit-license.org"
+  },
+  "bugs": {
+    "url": "https://github.com/tomchentw/mocha-jscs/issues"
+  },
+  "homepage": "https://github.com/tomchentw/mocha-jscs"
+}
