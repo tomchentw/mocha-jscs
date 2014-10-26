@@ -28,5 +28,12 @@
   "bugs": {
     "url": "https://github.com/tomchentw/mocha-jscs/issues"
   },
-  "homepage": "https://github.com/tomchentw/mocha-jscs"
+  "homepage": "https://github.com/tomchentw/mocha-jscs",
+  "peerDependencies": {
+    "jscs": "^1.7.3"
+  },
+  "devDependencies": {
+    "jscs": "^1.7.3",
+    "mocha": "^2.0.1"
+  }
 }
