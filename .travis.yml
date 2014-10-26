@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- '0.11'
+- '0.10'
+script: npm run test_travis
+after_success:
+- npm run coverage_travis
+env:
+  global:
+    secure: GPPV9karOrZKITa2a7bD7xMuw/LBun4ni84CkFjXGVqsSd3lZlP/Y75CCM82qCyyzTuisBwwm5fP3dJBRQ2DzlMNKfg1R5DHwQzNt1EJauRVsB2aJHRmx56fH3t1M4KE7/6+1PM9rSE2fuNNmHCv3Pc6hWaD3IEhZkJrnoDlbSA=
