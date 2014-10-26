@@ -10,6 +10,21 @@
 npm install mocha-jscs --save-dev
 ```
 
+Then add this file as `test/index.js` in your project, with the following content:
+
+```js
+require("mocha-jscs")();
+```
+
+You can also config the paths to run against:
+
+```js
+require("mocha-jscs")(["./lib"]); // Array of paths
+```
+
+
+That's it! You are done.
+
 
 ## Contributing
 
