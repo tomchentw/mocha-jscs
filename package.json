@@ -5,9 +5,9 @@
   "description": "Add jscs as mocha test in your test suite.",
   "main": "lib/index.js",
   "scripts": {
-    "postinstall": "npm dedupe",
     "test": "mocha",
     "dev": "mocha test/index.js --require should --watch",
+    "dev_install": "npm install && npm dedupe",
     "test_travis": "istanbul cover _mocha",
     "coverage_travis": "codeclimate < coverage/lcov.info"
   },
