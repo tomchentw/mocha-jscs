@@ -10,7 +10,14 @@
 npm install mocha-jscs --save-dev
 ```
 
-Then add this file as `test/index.js` in your project, with the following content:
+Make sure you have a jscs config defined using either:
+
+* a .jscs.json file in your project root
+* or jscs options in your package.json
+
+In your config you should use one of the available [presets](http://jscs.info/overview.html#options) or for more advanced configurations, define your own set of [rules](http://jscs.info/rules.html).
+
+Next, add this to `test/index.js` in your project, with the following content:
 
 ```js
 require("mocha-jscs")();
