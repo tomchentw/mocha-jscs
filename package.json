@@ -44,5 +44,8 @@
     "mocha": "^2.0.1",
     "mocha-jshint": "0.0.9",
     "tomchentw-npm-dev": "^1.1.0"
+  },
+  "dependencies": {
+    "jscs": "^1.12.0"
   }
 }
