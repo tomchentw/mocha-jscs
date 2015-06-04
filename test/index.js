@@ -5,4 +5,5 @@
 describe("mocha-jscs", function() {
   require("mocha-jshint")(["./lib/"]);
   require("../lib")(["./lib/"]);
+  require("../lib")(["./lib/index.js"]);
 });
