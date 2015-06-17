@@ -1,7 +1,7 @@
 {
   "__template__gist__": "https://gist.github.com/tomchentw/0dc24c30955c1a6c94d4#file-package-json",
   "name": "mocha-jscs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Add jscs as mocha test in your test suite.",
   "main": "lib/index.js",
   "scripts": {
