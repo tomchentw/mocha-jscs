@@ -1,3 +1,12 @@
+<a name"2.0.0"></a>
+## 2.0.0 (2015-09-07)
+
+
+#### Features
+
+* **package.json:** upgrade to jscs@2.1.1 ([ff1743a6](https://github.com/tomchentw/mocha-jscs.git/commit/ff1743a6), closes [#6](https://github.com/tomchentw/mocha-jscs.git/issues/6), [#7](https://github.com/tomchentw/mocha-jscs.git/issues/7))
+
+
 ## 1.2.0 (2015-06-17)
 
 
