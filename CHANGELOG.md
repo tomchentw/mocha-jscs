@@ -1,3 +1,12 @@
+<a name"3.0.0"></a>
+## 3.0.0 (2015-09-21)
+
+
+#### Bug Fixes
+
+* **index.js:** timeout to 30s a la mocha-jshint ([10792e16](https://github.com/tomchentw/mocha-jscs.git/commit/10792e16))
+
+
 <a name"2.0.0"></a>
 ## 2.0.0 (2015-09-07)
 
