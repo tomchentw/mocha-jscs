@@ -1,3 +1,9 @@
+<a name="4.1.0"></a>
+# [4.1.0](https://github.com/tomchentw/mocha-jscs/compare/v4.0.0...v4.1.0) (2016-01-31)
+
+
+
+
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/tomchentw/mocha-jscs/compare/v3.0.0...v4.0.0) (2015-09-30)
 
