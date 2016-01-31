@@ -1,6 +1,6 @@
 {
   "name": "mocha-jscs",
-  "version": "4.1.1",
+  "version": "4.2.0",
   "description": "Add jscs as mocha test in your test suite.",
   "main": "lib/index.js",
   "scripts": {
