@@ -1,7 +1,4 @@
-/**
- * __template__gist__: https://gist.github.com/tomchentw/0dc24c30955c1a6c94d4#file-jscsrc
- */
- {
+{
   "requireSpacesInNamedFunctionExpression": {
     "beforeOpeningRoundBrace": true,
     "beforeOpeningCurlyBrace": true
