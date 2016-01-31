@@ -1,11 +1,10 @@
 {
-  "__template__gist__": "https://gist.github.com/tomchentw/0dc24c30955c1a6c94d4#file-package-json",
   "name": "mocha-jscs",
   "version": "4.0.0",
   "description": "Add jscs as mocha test in your test suite.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "echo 'build'",
+    "build": "echo 'no build step'",
     "test": "mocha",
     "dev": "mocha test/index.js --require should --watch",
     "test_travis": "istanbul cover _mocha",
@@ -35,10 +34,10 @@
     "jscs": "^2.1.1"
   },
   "devDependencies": {
-    "codeclimate-test-reporter": "0.1.0",
+    "codeclimate-test-reporter": "^0.3.0",
     "istanbul": "^0.3.19",
     "mocha": "^2.3.1",
-    "mocha-jshint": "2.2.3",
+    "mocha-jshint": "^2.3.0",
     "tomchentw-npm-dev": "^3.0.0"
   },
   "dependencies": {
