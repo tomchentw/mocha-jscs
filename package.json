@@ -35,7 +35,7 @@
   "devDependencies": {
     "codeclimate-test-reporter": "^0.3.0",
     "cross-env": "^1.0.7",
-    "istanbul": "^0.3.19",
+    "istanbul": "^0.4.2",
     "mocha": "^2.3.1",
     "mocha-jshint": "^2.3.0",
     "tomchentw-npm-dev": "^3.0.0"
