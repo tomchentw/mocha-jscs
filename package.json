@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/tomchentw/mocha-jscs",
   "peerDependencies": {
-    "jscs": "^2.1.1"
+    "jscs": "^3.0.3"
   },
   "devDependencies": {
     "codeclimate-test-reporter": "^0.3.0",
@@ -41,7 +41,7 @@
     "tomchentw-npm-dev": "^3.0.0"
   },
   "dependencies": {
-    "jscs": "^2.1.1"
+    "jscs": "^3.0.3"
   },
   "files": [
     "lib"
