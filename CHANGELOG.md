@@ -1,3 +1,13 @@
+<a name="5.0.0"></a>
+# [5.0.0](https://github.com/tomchentw/mocha-jscs/compare/v4.2.1...v5.0.0) (2016-05-15)
+
+
+### Features
+
+* **package.json:** upgrade jscs version (#11) ([97e3f86](https://github.com/tomchentw/mocha-jscs/commit/97e3f86))
+
+
+
 <a name="4.2.1"></a>
 ## [4.2.1](https://github.com/tomchentw/mocha-jscs/compare/v4.2.0...v4.2.1) (2016-04-28)
 
