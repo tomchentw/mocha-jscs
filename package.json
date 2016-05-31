@@ -38,7 +38,7 @@
     "istanbul": "^0.4.2",
     "mocha": "^2.3.1",
     "mocha-jshint": "^2.3.0",
-    "tomchentw-npm-dev": "^3.0.0"
+    "standard-version": "^2.2.1"
   },
   "dependencies": {
     "jscs": "^3.0.3"
